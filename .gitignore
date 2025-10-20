@@ -1,0 +1,6 @@
+.DS_Store
+data/raw/
+data/flat/
+data/labels.csv
+.ipynb_checkpoints/
+venv/
